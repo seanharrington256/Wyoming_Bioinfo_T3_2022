@@ -1,6 +1,6 @@
 # Wyoming Bioinformatics Train-the-Trainer workshop, July 2022
 
-![](images/![](images/Schedule.png))
+![](images/INBRE_logo_2021_gold_grey.jpg)
 
 
 This is the overview repo for the INBRE workshop at the University of Wyoming. We will be adding to this repository throughout the week.
