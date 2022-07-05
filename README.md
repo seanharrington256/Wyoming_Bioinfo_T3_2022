@@ -12,6 +12,9 @@ Tentative schedule for the week (this will almost certainly change):
 ![](images/Schedule.png)
 
 
+Throughout the week, we will be meeting in STEM 280, on the north side of campus. The STEM building is between 10th & 11th Streets and Lewis & Bradley Streets (right next to the new Science Initiative Building).
+
+
 
 - Tutorial links:
 	- [Intro to bash and the WildIris cluster](https://github.com/seanharrington256/WildIris_tutorial)
